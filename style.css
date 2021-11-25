@@ -1,4 +1,5 @@
-body {
-  background-image:url("木とベンチ.jpg");
-  background-size:cover;
+body{
+  background-color: red;
+  /*background-image:url("木とベンチ.jpg");
+  background-size:cover;*/
 }
